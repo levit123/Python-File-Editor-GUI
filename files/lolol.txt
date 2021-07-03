@@ -1,0 +1,2 @@
+This is text for a test file, when testing the file manager GUI I made.
+Lorem Ipsum and so on.
